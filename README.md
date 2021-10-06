@@ -13,3 +13,5 @@ It has three difficulty settings
 Further Development
 
 I want to implement alpha-beta pruning to decrease the size of the search space and increase speed.
+
+![](https://github.com/cjgsaunders/minimax_tictactoe/blob/main/TicTacToe.gif)
